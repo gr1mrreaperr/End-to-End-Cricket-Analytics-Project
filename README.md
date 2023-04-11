@@ -64,11 +64,10 @@ In this end-to-end data analytics project , I have used cricket T20 world cup (2
    ![Anchors](https://user-images.githubusercontent.com/105696717/231073665-03f672c1-76d4-47e4-97ad-418fa0aeb57e.jpg)
  
  * Finishers
-   ![Finisher](https://user-images.githubusercontent.com/105696717/231074160-cf4b3b58-0b5a-48ed-84f6-3520801e84da.jpg)
-
+   ![Finisher](https://user-images.githubusercontent.com/105696717/231074549-cb092aaa-9e15-4922-a639-daad78a3bc27.jpg)
 
 * All Rounders
-   ![All Rounder](https://user-images.githubusercontent.com/105696717/231073894-523e8bd5-dac6-44a7-811a-77a2dd3b4793.jpg)
+   ![All Rounder](https://user-images.githubusercontent.com/105696717/231074633-8b0c6d9d-3f48-485c-9102-d3b967eb2e1e.jpg)
 
 * Fast Bowlers
    ![Fast Bowler](https://user-images.githubusercontent.com/105696717/231073952-3431a94d-5d4d-4520-8bff-bbd6d9148336.jpg)
