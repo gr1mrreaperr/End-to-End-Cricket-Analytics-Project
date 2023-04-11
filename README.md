@@ -29,14 +29,14 @@ In this end-to-end data analytics project , I have used cricket T20 world cup (2
 * Match Summary
  
 
-https://user-images.githubusercontent.com/105696717/231059590-a46db307-18d9-4ffc-9a62-f0b3764cbaca.mp4
+  https://user-images.githubusercontent.com/105696717/231059590-a46db307-18d9-4ffc-9a62-f0b3764cbaca.mp4
 
 
 * Fact Batting
 
 
 
-https://user-images.githubusercontent.com/105696717/231060279-83cd3f30-91bf-4b19-a810-8855484298f9.mp4
+  https://user-images.githubusercontent.com/105696717/231060279-83cd3f30-91bf-4b19-a810-8855484298f9.mp4
 
 
 
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/105696717/231060279-83cd3f30-91bf-4b19
 
 
 
-https://user-images.githubusercontent.com/105696717/231063142-699bdf2e-9e64-43e8-a530-3a97af98ae5c.mp4
+  https://user-images.githubusercontent.com/105696717/231063142-699bdf2e-9e64-43e8-a530-3a97af98ae5c.mp4
 
 
 
@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/105696717/231063142-699bdf2e-9e64-43e8
 
 
 
-https://user-images.githubusercontent.com/105696717/231063865-0cde34cd-3dcc-4f1e-9bc2-6a281cbecd63.mp4
+  https://user-images.githubusercontent.com/105696717/231063865-0cde34cd-3dcc-4f1e-9bc2-6a281cbecd63.mp4
 
 
 # Parameters
@@ -64,7 +64,8 @@ https://user-images.githubusercontent.com/105696717/231063865-0cde34cd-3dcc-4f1e
    ![Anchors](https://user-images.githubusercontent.com/105696717/231073665-03f672c1-76d4-47e4-97ad-418fa0aeb57e.jpg)
  
  * Finishers
-   ![Finisher](https://user-images.githubusercontent.com/105696717/231073795-528bf251-0b64-4842-a34d-baee61792e8a.jpg)
+   ![Finisher](https://user-images.githubusercontent.com/105696717/231074160-cf4b3b58-0b5a-48ed-84f6-3520801e84da.jpg)
+
 
 * All Rounders
    ![All Rounder](https://user-images.githubusercontent.com/105696717/231073894-523e8bd5-dac6-44a7-811a-77a2dd3b4793.jpg)
