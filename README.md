@@ -56,7 +56,7 @@ In this end-to-end data analytics project , I have used cricket T20 world cup (2
   https://user-images.githubusercontent.com/105696717/231063865-0cde34cd-3dcc-4f1e-9bc2-6a281cbecd63.mp4
 
 
-# Parameters
+# Parameters ℹ️
 
  * Openers
    ![Openers](https://user-images.githubusercontent.com/105696717/231073555-4fc9a537-e697-48ae-8c9f-eb8b98b5281b.jpg)
