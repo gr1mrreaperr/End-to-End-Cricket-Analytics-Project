@@ -36,11 +36,24 @@ https://user-images.githubusercontent.com/105696717/231059590-a46db307-18d9-4ffc
 
 
 
+https://user-images.githubusercontent.com/105696717/231060279-83cd3f30-91bf-4b19-a810-8855484298f9.mp4
+
+
+
+
 * Fact Bowling
 
 
 
+https://user-images.githubusercontent.com/105696717/231063142-699bdf2e-9e64-43e8-a530-3a97af98ae5c.mp4
+
+
+
 * Player Information
+
+
+
+https://user-images.githubusercontent.com/105696717/231063865-0cde34cd-3dcc-4f1e-9bc2-6a281cbecd63.mp4
 
 
 
