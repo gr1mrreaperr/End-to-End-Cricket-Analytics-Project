@@ -24,5 +24,23 @@ In this end-to-end data analytics project , I have used cricket T20 world cup (2
 * Regular Expression V2.2.1
 
 
+## Webscraped Data 🕸️
+
+* Match Summary
+ 
+
+https://user-images.githubusercontent.com/105696717/231059590-a46db307-18d9-4ffc-9a62-f0b3764cbaca.mp4
+
+
+* Fact Batting
+
+
+
+* Fact Bowling
+
+
+
+* Player Information
+
 
 
