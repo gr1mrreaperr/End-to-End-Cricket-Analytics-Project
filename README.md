@@ -57,20 +57,26 @@ In this end-to-end data analytics project , I have used cricket T20 world cup (2
 
 
 # Parameters
+
  * Openers
    ![Openers](https://user-images.githubusercontent.com/105696717/231073555-4fc9a537-e697-48ae-8c9f-eb8b98b5281b.jpg)
 
+
  * Anchors
-   ![Anchors](https://user-images.githubusercontent.com/105696717/231073665-03f672c1-76d4-47e4-97ad-418fa0aeb57e.jpg)
+   ![Anchors](https://user-images.githubusercontent.com/105696717/231075953-4e996629-96eb-4510-be68-7a0bfece2791.jpg)
+
  
  * Finishers
-   ![Finisher](https://user-images.githubusercontent.com/105696717/231074549-cb092aaa-9e15-4922-a639-daad78a3bc27.jpg)
+   ![Finishers](https://user-images.githubusercontent.com/105696717/231075999-06b4e716-e40d-4734-a796-510523f14dd2.jpg)
+
 
 * All Rounders
-   ![All Rounder](https://user-images.githubusercontent.com/105696717/231074633-8b0c6d9d-3f48-485c-9102-d3b967eb2e1e.jpg)
+   ![All Rounders](https://user-images.githubusercontent.com/105696717/231076045-b09364e8-2a9c-4546-90aa-b77d8d53f153.jpg)
+
 
 * Fast Bowlers
-   ![Fast Bowler](https://user-images.githubusercontent.com/105696717/231073952-3431a94d-5d4d-4520-8bff-bbd6d9148336.jpg)
+   ![Fast Bowlers](https://user-images.githubusercontent.com/105696717/231076064-5179aacf-98fc-4e52-bccf-01f382d6c395.jpg)
+
 
 
 # Report 📈
